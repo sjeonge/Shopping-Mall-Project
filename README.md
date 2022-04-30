@@ -1,2 +1,2 @@
 # Shopping-Mall-Project
-Spring Framework 기반 의류 소핑몰
+Spring Framework 기반 의류 쇼핑몰
